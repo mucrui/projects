@@ -1,0 +1,12 @@
+com\galaxy\springboot\SpringBootStartApplication.class
+com\galaxy\springboot\service\impl\UserServiceImpl.class
+com\galaxy\springboot\entity\Student.class
+com\galaxy\springboot\HelloWorldApplication.class
+com\galaxy\springboot\mapper\TbUserMapper.class
+com\galaxy\springboot\controller\UserController.class
+com\galaxy\springboot\entity\TbUserExample$Criteria.class
+com\galaxy\springboot\entity\TbUserExample$GeneratedCriteria.class
+com\galaxy\springboot\entity\TbUser.class
+com\galaxy\springboot\service\UserService.class
+com\galaxy\springboot\entity\TbUserExample$Criterion.class
+com\galaxy\springboot\entity\TbUserExample.class
